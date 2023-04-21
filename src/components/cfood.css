@@ -1,0 +1,97 @@
+#internal {
+  
+    text-align: absolute;
+    padding-top: 50px;
+    padding-left: 700px;
+    color:red;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+ 
+    
+  }
+ 
+  #leftcon{
+    position: relative;
+    left:10%;
+    padding-top:100px ;
+    color: white;
+  }
+  #dha{
+    position: absolute;
+    left:48%;
+    padding-top:8px ;
+  }
+
+  #jer{
+    height:50px;
+    width:90%;
+    margin-left: 12px;
+  }
+  #jer1{
+    height:50px;
+    width:70%;
+    margin-left:12px;
+  }
+
+  #rightcon{
+    position: absolute;
+    left:60%;
+    padding-top:195px ;
+    color: white;
+  }
+
+  #vr{
+    height:50px;
+    width:90%;
+    margin-left: 12px;
+  }
+
+  #vr1{
+    height:50px;
+    width:70%;
+    margin-left: 12px;
+  }
+  #vm{
+    height:50px;
+    width:207%;
+    margin-left:12px;
+  }
+  #vmt{
+    height:50px;
+    width:215%;
+    margin-left:12px;
+  }
+  #vm1{
+    height:50px;
+    width:143%;
+    margin-left: 10px;
+  }
+
+  #sum
+  {
+    
+      margin-left: 575px;
+      height:50px;
+      width:100px;
+      border-radius: 12px;
+      background-color: rgb(149, 166, 149);
+    
+  }
+  #vn{
+    margin-left: 12px;
+    position: relative;
+     width:179%; 
+    padding: 10px 20px;
+  }
+  #mnh{
+    background-color: blue;
+    height: 150px;;
+  }
+  .foodbg{
+    background-image: url("https://wallpaperaccess.com/full/4883007.jpg");
+    background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+  background-size: cover;
+    
+  }

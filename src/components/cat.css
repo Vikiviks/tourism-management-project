@@ -1,0 +1,58 @@
+#interior {
+  
+    text-align: absolute;
+    padding-top: 40px;
+    padding-left: 700px;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+ 
+    
+  }
+ 
+  #form{
+    position: absolute;
+    left:40%;
+    padding-top:40px ;
+  }
+  #sab{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 67%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+   
+  }
+  #uno{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 88%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+  }
+  #sa{
+    border-radius: 10px;
+    width:21%;
+    height:60px; 
+  }
+  #ros{
+    margin-left: 175px;
+    height:50px;
+    width:100px;
+    background-color: rgb(63, 63, 237);
+  }
+  #dab{
+    width:25%;
+  }
+.signbg{
+  
+
+  background-repeat: no-repeat;
+  background-image: url("https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?ixlib=rb-4.0.3&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb");
+  height: 100vh;
+  overflow: hidden;
+  background-size: cover;
+}

@@ -1,0 +1,41 @@
+#tem{
+  text-align: absolute;
+  padding-top: 100px;
+  padding-left: 150px;
+  font-style:italic;
+  font-family:'Times New Roman', Times, serif;
+  }  
+  .city{
+    position: absolute;
+    left: 15%;
+    margin-top: 1%;
+  }
+  .front{
+    background-image: url("https://www.oyorooms.com/blog/wp-content/uploads/2019/06/himalaya-ranges.jpg");
+    background-repeat: no-repeat;
+    height:100vh;
+    overflow: hidden;
+     background-size: cover;
+  
+  }
+#mar{
+  text-decoration: none;
+}
+#lon{
+  text-decoration: none;
+  color: azure;
+}
+#nit{
+  margin-left :600px;
+  margin-top: 7%;
+}
+#s1{
+  margin-left: 12%;
+  font-style:oblique;
+}
+#bl{
+  color:rgb(13, 27, 33);
+}
+#blu{
+  color:rgb(26, 26, 114);
+}

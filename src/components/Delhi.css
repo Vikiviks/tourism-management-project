@@ -1,0 +1,49 @@
+.Delhibg{
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+  background-size: cover;
+  position: sticky;
+  }
+  #btn17{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 9%;
+    top: 8%;
+    border-radius: 12px;
+    background-color:azure;
+  }
+ 
+  #btn18{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 85%;
+    top: 10%;
+    border-radius: 12px;
+    background-color:azure;
+  }
+  #btn19{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 90%;
+    border-radius: 12px;
+    background-color:azure;
+  }
+  #btn20{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 85%;
+    top: 90%;
+    border-radius: 12px;
+    background-color:azure;
+
+  }
+  #g2
+  {
+    padding-left: 750px;
+  }

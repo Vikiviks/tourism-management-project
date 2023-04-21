@@ -1,0 +1,49 @@
+.Allahabadbg{
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+  background-size: cover;
+  position: sticky;
+  }
+  #btn5{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    background-color:azure;
+    border-radius: 12px;
+  }
+  
+  #btn6{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 85%;
+    top: 10%;
+    background-color:azure;
+    border-radius: 12px;
+  }
+  #btn7{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 10%;
+    top: 90%;
+    background-color:azure;
+    border-radius: 12px;
+  }
+  #btn8{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    left: 85%;
+    top: 90%;
+    background-color:azure;
+    border-radius: 12px;
+
+  }
+  #krs{
+    color:white;
+    position: absolute;
+  }
